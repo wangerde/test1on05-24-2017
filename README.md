@@ -13,5 +13,3 @@ test_index_cuite_upload_github
 &copy; 2004 Foo Corporation
 </div>
 
-~~javascript~~
-alert('Hello World');
